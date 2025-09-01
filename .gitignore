@@ -1,0 +1,12 @@
+**/target/
+.idea
+*.iml
+*.class
+*Test.java
+**/test/
+
+# 忽略所有模块下的resources文件夹及其内容
+**/src/main/resources/
+**/src/test/resources/
+# 忽略根目录下可能存在的resources文件夹
+/resources/
